@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Full-stack web development using MERN Stack**
 
-- Ph.No [6300519707](6300519707)
-
 - 💬 Ask me about **Web Dev, Python, C++ And Cloud Computing**
 
 - 📫 How to reach me **sohailshaikdec8@gmail.com**
