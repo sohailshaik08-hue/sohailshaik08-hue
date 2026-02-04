@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sohail Shaik</h1>
 <h3 align="center">A Passionate Full Stack Developer And Cloud Enthusiast From India</h3>
 
+
 - 🔭 I’m currently working on **Web Dev, Cloud Projects And Improving my Data Structures & Algorithms skills**
 
-- 🌱 I’m currently learning **Full Stack(MERN) , Cloud Practioner And DSA For Coding Interviews**
+- 🌱 I’m currently learning **Full Stack(MERN), Cloud Practioner And DSA For Coding Interviews**
 
 - 👯 I’m looking to collaborate on **Full-stack web development using MERN Stack**
 
@@ -12,9 +13,16 @@
 - 📫 How to reach me **sohailshaikdec8@gmail.com**
 
 - ⚡ Fun fact **I love exploring new things even if I’m bad at them at first**
-- <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+  </div>
+
+  <div aligm ="center">
+    <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+  </div>
+
 </div>
+
+
 
 ###
 
